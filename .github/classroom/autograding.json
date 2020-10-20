@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "problem_01.py",
+      "setup": "",
+      "run": "python3 problem_01.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "problem_02.py",
+      "setup": "",
+      "run": "python3 problem_02.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "problem_03.py",
+      "setup": "",
+      "run": "python3 problem_03.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_04.py",
+      "setup": "",
+      "run": "python3 problem_04.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_05.py",
+      "setup": "",
+      "run": "python3 problem_05.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_06.py",
+      "setup": "",
+      "run": "python3 problem_06.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_07.py",
+      "setup": "",
+      "run": "python3 problem_07.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_08.py",
+      "setup": "",
+      "run": "python3 problem_08.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_09.py",
+      "setup": "",
+      "run": "python3 problem_09.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "problem_10.py",
+      "setup": "",
+      "run": "python3 problem_10.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    }
+  ]
+}
